@@ -21,13 +21,6 @@ Currently in my **second year** of the "Tecnicatura Universitaria en Programaci�
 - **JavaScript (ES6+)**  
   Bringing interactive elements to life.
 
-#### ⚙️ Other Languages & Tools:
-- **Java**: Experienced in object-oriented programming.  
-- **C**: Low-level programming experience for performance-based projects.  
-- **Git**: Version control to manage codebases effectively.
-
----
-
 ### 📫 How to Reach Me:
 📧 Email: [lautarosanche@gmail.com](mailto:lautarosanche@gmail.com)  
 🔗 [LinkedIn Profile](www.linkedin.com/in/sanchezchandialautaro) 
